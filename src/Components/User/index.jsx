@@ -30,10 +30,10 @@ export default function User({
         <a href={`mailto:${email}`}>
           <span className={s.feature}>Email:</span> {email}
         </a>
-        <a href={`tel:${phone}`} target="_blank">
+        <a href={`tel:${phone}`} target="_blank" rel="noreferrer">
           <span className={s.feature}>Phone:</span> {phone}
         </a>
-        <a href={website} >
+        <a href="#">
           <span className={s.feature}>Website:</span> {website}
         </a>
       </div>
