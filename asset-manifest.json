@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/users-react/static/css/main.8eadeaf2.css",
+    "main.js": "/users-react/static/js/main.af7424e5.js",
+    "index.html": "/users-react/index.html",
+    "main.8eadeaf2.css.map": "/users-react/static/css/main.8eadeaf2.css.map",
+    "main.af7424e5.js.map": "/users-react/static/js/main.af7424e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eadeaf2.css",
+    "static/js/main.af7424e5.js"
+  ]
+}
